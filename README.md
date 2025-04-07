@@ -104,5 +104,5 @@ We implement a **pairwise classification approach** using transformer models to 
 
 Built for the **Stanford Legal AI Hackathon**  
 Sponsored by **Bloomberg**  
-Developed by Chandini, Amrutha, Bharathi – AI Security & NLP Enthusiasts 🛡️🧠
+Developed by Chandini, Amrutha, Bharathi, Rutuja – AI Security & NLP Enthusiasts 🛡️🧠
 

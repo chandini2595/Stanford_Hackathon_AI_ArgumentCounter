@@ -1,4 +1,4 @@
-# 🧠 Legal Brief Argument–Counterargument Linker
+# 🧠 AI based Legal Brief Argument Linker
 
 This project analyzes legal briefs by automatically linking argument sections from a **moving brief** with corresponding counter-arguments in a **response brief**. It supports legal professionals in faster legal research and more effective drafting.
 
